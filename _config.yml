@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+remote_theme: pages-themes/time-machine@v0.2.0
 author: iasmynlp18
 title: Welcome to my website!
 description: My first website in GitHub pages
